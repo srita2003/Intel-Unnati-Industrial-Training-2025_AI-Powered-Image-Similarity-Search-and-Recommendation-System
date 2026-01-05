@@ -3,7 +3,6 @@
 Fashion Lens is a deep learning–based image similarity search system that identifies and recommends visually similar fashion products without relying on manual tags or text descriptions. The system uses a Triplet Network architecture to learn semantic visual embeddings, enabling accurate similarity matching across large image datasets.
 
 Key Features
-
 1. Triplet Network–based deep learning model for visual similarity learning
 2. Content-based image search using cosine similarity
 3. Supports large-scale datasets (3000+ images)
@@ -13,14 +12,14 @@ Applications
 1. E-commerce “Find Similar Products”
 2. Fashion recommendation systems
 3. Visual search in digital catalogs
-
+   
 Tech Stack
-Python, PyTorch, CNNs, Triplet Loss, OpenCV, Scikit-learn, Matplotlib
+Languages & Libraries: Python, PyTorch, OpenCV, Scikit-learn, Matplotlib
+Deep Learning: Convolutional Neural Networks (CNNs), Triplet Loss
+Data Handling: Efficient batch processing for large datasets
 
 Dataset
-
 Curated fashion image dataset with over 3000 images of shoes, apparel, and accessories
-
 Images were preprocessed and augmented to improve model performance
 
 Performance
