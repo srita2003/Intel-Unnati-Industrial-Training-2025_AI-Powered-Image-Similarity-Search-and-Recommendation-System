@@ -1,4 +1,8 @@
+
+https://github.com/user-attachments/assets/9a49149f-2793-4bee-ac70-0d329dd32e5d
 # Intel-Unnati-Industrial-Training-2025_AI-Powered-Image-Similarity-Search-and-Recommendation-System
+
+https://github.com/user-attachments/assets/146ea4a9-396a-494f-8ced-fef063d28544
 
 Fashion Lens is a deep learning–based image similarity search system that identifies and recommends visually similar fashion products without relying on manual tags or text descriptions. The system uses a Triplet Network architecture to learn semantic visual embeddings, enabling accurate similarity matching across large image datasets.
 
