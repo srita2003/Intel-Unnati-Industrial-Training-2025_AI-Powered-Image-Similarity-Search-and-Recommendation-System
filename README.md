@@ -1,5 +1,6 @@
 
 https://github.com/user-attachments/assets/9a49149f-2793-4bee-ac70-0d329dd32e5d
+
 # Intel-Unnati-Industrial-Training-2025_AI-Powered-Image-Similarity-Search-and-Recommendation-System
 
 https://github.com/user-attachments/assets/146ea4a9-396a-494f-8ced-fef063d28544
